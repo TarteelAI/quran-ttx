@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.19">
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.55">
 
   <GlyphOrder>
     <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
@@ -61870,7 +61870,7 @@
 
   <GDEF>
     <Version value="0x00010000"/>
-    <GlyphClassDef Format="2">
+    <GlyphClassDef>
       <ClassDef glyph=".null" class="1"/>
       <ClassDef glyph="afii57381" class="1"/>
       <ClassDef glyph="afii57388" class="1"/>
@@ -62501,7 +62501,7 @@
       <ClassDef glyph="yehtailfinal" class="1"/>
     </GlyphClassDef>
     <LigCaretList>
-      <Coverage Format="2">
+      <Coverage>
       </Coverage>
       <!-- LigGlyphCount=0 -->
     </LigCaretList>
