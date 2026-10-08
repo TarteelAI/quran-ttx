@@ -156,185 +156,185 @@
     <GlyphID id="150" name="uniFC01"/>
     <GlyphID id="151" name="uniFC02"/>
     <GlyphID id="152" name="uniFC03"/>
-    <GlyphID id="153" name="uniFC04"/>
-    <GlyphID id="154" name="uniFC05"/>
-    <GlyphID id="155" name="uniFC06"/>
-    <GlyphID id="156" name="uniFC07"/>
-    <GlyphID id="157" name="uniFC08"/>
-    <GlyphID id="158" name="uniFC09"/>
-    <GlyphID id="159" name="uniFC0A"/>
-    <GlyphID id="160" name="uniFC0B"/>
-    <GlyphID id="161" name="uniFC0C"/>
-    <GlyphID id="162" name="uniFC0D"/>
-    <GlyphID id="163" name="uniFC0E"/>
-    <GlyphID id="164" name="uniFC0F"/>
-    <GlyphID id="165" name="uniFC10"/>
-    <GlyphID id="166" name="uniFC11"/>
-    <GlyphID id="167" name="uniFC12"/>
-    <GlyphID id="168" name="uniFC13"/>
-    <GlyphID id="169" name="uniFC14"/>
-    <GlyphID id="170" name="uniFC15"/>
-    <GlyphID id="171" name="uniFC16"/>
-    <GlyphID id="172" name="uniFC17"/>
-    <GlyphID id="173" name="uniFC18"/>
-    <GlyphID id="174" name="uniFC19"/>
-    <GlyphID id="175" name="uniFC1A"/>
-    <GlyphID id="176" name="uniFC1B"/>
-    <GlyphID id="177" name="uniFC1C"/>
-    <GlyphID id="178" name="uniFC1D"/>
-    <GlyphID id="179" name="uniFC1E"/>
-    <GlyphID id="180" name="uniFC1F"/>
-    <GlyphID id="181" name="uniFC20"/>
-    <GlyphID id="182" name="uniFC21"/>
-    <GlyphID id="183" name="uniFC22"/>
-    <GlyphID id="184" name="uniFC23"/>
-    <GlyphID id="185" name="uniFC24"/>
-    <GlyphID id="186" name="divide"/>
-    <GlyphID id="187" name="uniFC26"/>
-    <GlyphID id="188" name="uniFC27"/>
-    <GlyphID id="189" name="afii57388"/>
-    <GlyphID id="190" name="afii57403"/>
-    <GlyphID id="191" name="afii57407"/>
-    <GlyphID id="192" name="uniFE80"/>
-    <GlyphID id="193" name="uniFE81"/>
-    <GlyphID id="194" name="uniFE83"/>
-    <GlyphID id="195" name="uniFE85"/>
-    <GlyphID id="196" name="uniFE87"/>
-    <GlyphID id="197" name="uniFE89"/>
-    <GlyphID id="198" name="uniFE8D"/>
-    <GlyphID id="199" name="uniFE8F"/>
-    <GlyphID id="200" name="uniFE93"/>
-    <GlyphID id="201" name="uniFE95"/>
-    <GlyphID id="202" name="uniFE99"/>
-    <GlyphID id="203" name="uniFE9D"/>
-    <GlyphID id="204" name="uniFEA1"/>
-    <GlyphID id="205" name="uniFEA5"/>
-    <GlyphID id="206" name="uniFEA9"/>
-    <GlyphID id="207" name="uniFEAB"/>
-    <GlyphID id="208" name="uniFEAD"/>
-    <GlyphID id="209" name="uniFEAF"/>
-    <GlyphID id="210" name="uniFEB1"/>
-    <GlyphID id="211" name="uniFEB5"/>
-    <GlyphID id="212" name="uniFEB9"/>
-    <GlyphID id="213" name="uniFEBD"/>
-    <GlyphID id="214" name="uniFEC1"/>
-    <GlyphID id="215" name="uniFEC5"/>
-    <GlyphID id="216" name="uniFEC9"/>
-    <GlyphID id="217" name="uniFECD"/>
-    <GlyphID id="218" name="afii57440"/>
-    <GlyphID id="219" name="uniFED1"/>
-    <GlyphID id="220" name="uniFED5"/>
-    <GlyphID id="221" name="uniFED9"/>
-    <GlyphID id="222" name="uniFEDD"/>
-    <GlyphID id="223" name="uniFEE1"/>
-    <GlyphID id="224" name="uniFEE5"/>
-    <GlyphID id="225" name="uniFEE9"/>
-    <GlyphID id="226" name="uniFEED"/>
-    <GlyphID id="227" name="uniFEEF"/>
-    <GlyphID id="228" name="uniFEF1"/>
-    <GlyphID id="229" name="afii57451"/>
-    <GlyphID id="230" name="afii57452"/>
-    <GlyphID id="231" name="afii57453"/>
-    <GlyphID id="232" name="afii57454"/>
-    <GlyphID id="233" name="afii57455"/>
-    <GlyphID id="234" name="afii57456"/>
-    <GlyphID id="235" name="afii57457"/>
-    <GlyphID id="236" name="afii57458"/>
-    <GlyphID id="237" name="uni0653"/>
-    <GlyphID id="238" name="uni0654"/>
-    <GlyphID id="239" name="uni0655"/>
-    <GlyphID id="240" name="uni06F0"/>
-    <GlyphID id="241" name="uni06F1"/>
-    <GlyphID id="242" name="uni06F2"/>
-    <GlyphID id="243" name="uni06F3"/>
-    <GlyphID id="244" name="afii57396"/>
-    <GlyphID id="245" name="afii57397"/>
-    <GlyphID id="246" name="afii57398"/>
-    <GlyphID id="247" name="uni06F7"/>
-    <GlyphID id="248" name="uni06F8"/>
-    <GlyphID id="249" name="uni06F9"/>
-    <GlyphID id="250" name="afii57381"/>
-    <GlyphID id="251" name="uni066B"/>
-    <GlyphID id="252" name="uni066C"/>
-    <GlyphID id="253" name="afii63167"/>
-    <GlyphID id="254" name="uni0671"/>
-    <GlyphID id="255" name="afii57511"/>
-    <GlyphID id="256" name="uni067C"/>
-    <GlyphID id="257" name="afii57506"/>
-    <GlyphID id="258" name="uni0681"/>
-    <GlyphID id="259" name="uni0685"/>
-    <GlyphID id="260" name="afii57507"/>
-    <GlyphID id="261" name="afii57512"/>
-    <GlyphID id="262" name="uni0689"/>
-    <GlyphID id="263" name="afii57513"/>
-    <GlyphID id="264" name="uni0693"/>
-    <GlyphID id="265" name="uni0696"/>
-    <GlyphID id="266" name="afii57508"/>
-    <GlyphID id="267" name="uni069A"/>
-    <GlyphID id="268" name="afii57505"/>
-    <GlyphID id="269" name="uni06A9"/>
-    <GlyphID id="270" name="uni06AB"/>
-    <GlyphID id="271" name="afii57509"/>
-    <GlyphID id="272" name="uni06B7"/>
-    <GlyphID id="273" name="afii57514"/>
-    <GlyphID id="274" name="uni06BC"/>
-    <GlyphID id="275" name="uni06BE"/>
-    <GlyphID id="276" name="uni06C2"/>
-    <GlyphID id="277" name="afii57534"/>
-    <GlyphID id="278" name="uni06C7"/>
-    <GlyphID id="279" name="uni06C9"/>
-    <GlyphID id="280" name="uni06CC"/>
-    <GlyphID id="281" name="uni06CD"/>
-    <GlyphID id="282" name="uni06D0"/>
-    <GlyphID id="283" name="uni06D1"/>
-    <GlyphID id="284" name="afii57519"/>
-    <GlyphID id="285" name="uni06D3"/>
-    <GlyphID id="286" name="uni06D4"/>
-    <GlyphID id="287" name="uni06F4"/>
-    <GlyphID id="288" name="uni06F5"/>
-    <GlyphID id="289" name="uni06F6"/>
-    <GlyphID id="290" name="uni2000"/>
-    <GlyphID id="291" name="uni2001"/>
-    <GlyphID id="292" name="uni2002"/>
-    <GlyphID id="293" name="uni2003"/>
-    <GlyphID id="294" name="uni2004"/>
-    <GlyphID id="295" name="uni2005"/>
-    <GlyphID id="296" name="uni2006"/>
-    <GlyphID id="297" name="uni2007"/>
-    <GlyphID id="298" name="uni2008"/>
-    <GlyphID id="299" name="uni2009"/>
-    <GlyphID id="300" name="uni200A"/>
-    <GlyphID id="301" name="uni2010"/>
-    <GlyphID id="302" name="uni2011"/>
-    <GlyphID id="303" name="figuredash"/>
-    <GlyphID id="304" name="endash"/>
-    <GlyphID id="305" name="emdash"/>
-    <GlyphID id="306" name="dagger"/>
-    <GlyphID id="307" name="ellipsis"/>
-    <GlyphID id="308" name="uni202F"/>
-    <GlyphID id="309" name="uni205F"/>
-    <GlyphID id="310" name="uniE000"/>
-    <GlyphID id="311" name="uniFB50"/>
-    <GlyphID id="312" name="uniFB5D"/>
+    <GlyphID id="153" name="uniFEA9"/>
+    <GlyphID id="154" name="uniFEAB"/>
+    <GlyphID id="155" name="uniFEAD"/>
+    <GlyphID id="156" name="uniFEAF"/>
+    <GlyphID id="157" name="uniFEB1"/>
+    <GlyphID id="158" name="uniFEB5"/>
+    <GlyphID id="159" name="uniFEB9"/>
+    <GlyphID id="160" name="uniFEBD"/>
+    <GlyphID id="161" name="uniFEC1"/>
+    <GlyphID id="162" name="uniFEC5"/>
+    <GlyphID id="163" name="uniFEC9"/>
+    <GlyphID id="164" name="uniFECD"/>
+    <GlyphID id="165" name="afii57440"/>
+    <GlyphID id="166" name="uniFED1"/>
+    <GlyphID id="167" name="uniFED5"/>
+    <GlyphID id="168" name="uniFED9"/>
+    <GlyphID id="169" name="uniFEDD"/>
+    <GlyphID id="170" name="uniFEE1"/>
+    <GlyphID id="171" name="uniFEE5"/>
+    <GlyphID id="172" name="uniFEE9"/>
+    <GlyphID id="173" name="uniFEED"/>
+    <GlyphID id="174" name="uniFEEF"/>
+    <GlyphID id="175" name="uniFEF1"/>
+    <GlyphID id="176" name="uni06C2"/>
+    <GlyphID id="177" name="afii57534"/>
+    <GlyphID id="178" name="uniFB5D"/>
+    <GlyphID id="179" name="uniFC04"/>
+    <GlyphID id="180" name="uniFC05"/>
+    <GlyphID id="181" name="uniFC06"/>
+    <GlyphID id="182" name="uniFC07"/>
+    <GlyphID id="183" name="uniFC08"/>
+    <GlyphID id="184" name="uniFC09"/>
+    <GlyphID id="185" name="uniFC0A"/>
+    <GlyphID id="186" name="uniFC0B"/>
+    <GlyphID id="187" name="uniFC0C"/>
+    <GlyphID id="188" name="uniFC0D"/>
+    <GlyphID id="189" name="uniFC0E"/>
+    <GlyphID id="190" name="uniFC0F"/>
+    <GlyphID id="191" name="uniFC10"/>
+    <GlyphID id="192" name="uniFC11"/>
+    <GlyphID id="193" name="uniFC12"/>
+    <GlyphID id="194" name="uniFC13"/>
+    <GlyphID id="195" name="uniFC14"/>
+    <GlyphID id="196" name="uniFC15"/>
+    <GlyphID id="197" name="uniFC16"/>
+    <GlyphID id="198" name="uniFC17"/>
+    <GlyphID id="199" name="uniFC18"/>
+    <GlyphID id="200" name="uniFC19"/>
+    <GlyphID id="201" name="uniFC1A"/>
+    <GlyphID id="202" name="uniFC1B"/>
+    <GlyphID id="203" name="uniFC1C"/>
+    <GlyphID id="204" name="uniFC1D"/>
+    <GlyphID id="205" name="uniFC1E"/>
+    <GlyphID id="206" name="uniFC1F"/>
+    <GlyphID id="207" name="uniFC20"/>
+    <GlyphID id="208" name="uniFC21"/>
+    <GlyphID id="209" name="uniFC22"/>
+    <GlyphID id="210" name="uniFC23"/>
+    <GlyphID id="211" name="uniFC24"/>
+    <GlyphID id="212" name="divide"/>
+    <GlyphID id="213" name="uniFC26"/>
+    <GlyphID id="214" name="uniFC27"/>
+    <GlyphID id="215" name="afii57388"/>
+    <GlyphID id="216" name="afii57403"/>
+    <GlyphID id="217" name="afii57407"/>
+    <GlyphID id="218" name="uniFE80"/>
+    <GlyphID id="219" name="uniFE81"/>
+    <GlyphID id="220" name="uniFE83"/>
+    <GlyphID id="221" name="uniFE85"/>
+    <GlyphID id="222" name="uniFE87"/>
+    <GlyphID id="223" name="uniFE89"/>
+    <GlyphID id="224" name="uniFE8D"/>
+    <GlyphID id="225" name="uniFE8F"/>
+    <GlyphID id="226" name="uniFE93"/>
+    <GlyphID id="227" name="uniFE95"/>
+    <GlyphID id="228" name="uniFE99"/>
+    <GlyphID id="229" name="uniFE9D"/>
+    <GlyphID id="230" name="uniFEA1"/>
+    <GlyphID id="231" name="uniFEA5"/>
+    <GlyphID id="232" name="afii57451"/>
+    <GlyphID id="233" name="afii57452"/>
+    <GlyphID id="234" name="afii57453"/>
+    <GlyphID id="235" name="afii57454"/>
+    <GlyphID id="236" name="afii57455"/>
+    <GlyphID id="237" name="afii57456"/>
+    <GlyphID id="238" name="afii57457"/>
+    <GlyphID id="239" name="afii57458"/>
+    <GlyphID id="240" name="uni0653"/>
+    <GlyphID id="241" name="uni0654"/>
+    <GlyphID id="242" name="uni0655"/>
+    <GlyphID id="243" name="uni06F0"/>
+    <GlyphID id="244" name="uni06F1"/>
+    <GlyphID id="245" name="uni06F2"/>
+    <GlyphID id="246" name="uni06F3"/>
+    <GlyphID id="247" name="afii57396"/>
+    <GlyphID id="248" name="afii57397"/>
+    <GlyphID id="249" name="afii57398"/>
+    <GlyphID id="250" name="uni06F7"/>
+    <GlyphID id="251" name="uni06F8"/>
+    <GlyphID id="252" name="uni06F9"/>
+    <GlyphID id="253" name="afii57381"/>
+    <GlyphID id="254" name="uni066B"/>
+    <GlyphID id="255" name="uni066C"/>
+    <GlyphID id="256" name="afii63167"/>
+    <GlyphID id="257" name="uni0671"/>
+    <GlyphID id="258" name="afii57511"/>
+    <GlyphID id="259" name="uni067C"/>
+    <GlyphID id="260" name="afii57506"/>
+    <GlyphID id="261" name="uni0681"/>
+    <GlyphID id="262" name="uni0685"/>
+    <GlyphID id="263" name="afii57507"/>
+    <GlyphID id="264" name="afii57512"/>
+    <GlyphID id="265" name="uni0689"/>
+    <GlyphID id="266" name="afii57513"/>
+    <GlyphID id="267" name="uni0693"/>
+    <GlyphID id="268" name="uni0696"/>
+    <GlyphID id="269" name="afii57508"/>
+    <GlyphID id="270" name="uni069A"/>
+    <GlyphID id="271" name="afii57505"/>
+    <GlyphID id="272" name="uni06A9"/>
+    <GlyphID id="273" name="uni06AB"/>
+    <GlyphID id="274" name="afii57509"/>
+    <GlyphID id="275" name="uni06B7"/>
+    <GlyphID id="276" name="afii57514"/>
+    <GlyphID id="277" name="uni06BC"/>
+    <GlyphID id="278" name="uni06BE"/>
+    <GlyphID id="279" name="uni06C7"/>
+    <GlyphID id="280" name="uni06C9"/>
+    <GlyphID id="281" name="uni06CC"/>
+    <GlyphID id="282" name="uni06CD"/>
+    <GlyphID id="283" name="uni06D0"/>
+    <GlyphID id="284" name="uni06D1"/>
+    <GlyphID id="285" name="afii57519"/>
+    <GlyphID id="286" name="uni06D3"/>
+    <GlyphID id="287" name="uni06D4"/>
+    <GlyphID id="288" name="uni06F4"/>
+    <GlyphID id="289" name="uni06F5"/>
+    <GlyphID id="290" name="uni06F6"/>
+    <GlyphID id="291" name="uni2000"/>
+    <GlyphID id="292" name="uni2001"/>
+    <GlyphID id="293" name="uni2002"/>
+    <GlyphID id="294" name="uni2003"/>
+    <GlyphID id="295" name="uni2004"/>
+    <GlyphID id="296" name="uni2005"/>
+    <GlyphID id="297" name="uni2006"/>
+    <GlyphID id="298" name="uni2007"/>
+    <GlyphID id="299" name="uni2008"/>
+    <GlyphID id="300" name="uni2009"/>
+    <GlyphID id="301" name="uni200A"/>
+    <GlyphID id="302" name="uni2010"/>
+    <GlyphID id="303" name="uni2011"/>
+    <GlyphID id="304" name="figuredash"/>
+    <GlyphID id="305" name="endash"/>
+    <GlyphID id="306" name="emdash"/>
+    <GlyphID id="307" name="dagger"/>
+    <GlyphID id="308" name="ellipsis"/>
+    <GlyphID id="309" name="uni202F"/>
+    <GlyphID id="310" name="uni205F"/>
+    <GlyphID id="311" name="uniE000"/>
+    <GlyphID id="312" name="uniFB50"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="5.0"/>
-    <checkSumAdjustment value="0x76a35404"/>
+    <checkSumAdjustment value="0x58dc3529"/>
     <magicNumber value="0x5f0f3cf5"/>
-    <flags value="00000000 00001011"/>
+    <flags value="00000010 10001011"/>
     <unitsPerEm value="2048"/>
     <created value="Sun May 15 08:57:39 2005"/>
-    <modified value="Thu Apr 14 13:12:59 2011"/>
-    <xMin value="-248"/>
+    <modified value="Wed Jul  2 10:04:12 2025"/>
+    <xMin value="2"/>
     <yMin value="-1060"/>
     <xMax value="8755"/>
     <yMax value="2316"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="8"/>
-    <fontDirectionHint value="2"/>
+    <fontDirectionHint value="0"/>
     <indexToLocFormat value="0"/>
     <glyphDataFormat value="0"/>
   </head>
@@ -345,7 +345,7 @@
     <descent value="-1100"/>
     <lineGap value="0"/>
     <advanceWidthMax value="8708"/>
-    <minLeftSideBearing value="-248"/>
+    <minLeftSideBearing value="0"/>
     <minRightSideBearing value="-1234"/>
     <xMaxExtent value="8755"/>
     <caretSlopeRise value="1"/>
@@ -356,7 +356,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="313"/>
+    <numberOfHMetrics value="189"/>
   </hhea>
 
   <maxp>
@@ -416,7 +416,7 @@
     <achVendID value="Harf"/>
     <fsSelection value="00000000 01000000"/>
     <usFirstCharIndex value="0"/>
-    <usLastCharIndex value="65265"/>
+    <usLastCharIndex value="64524"/>
     <sTypoAscender value="1638"/>
     <sTypoDescender value="-410"/>
     <sTypoLineGap value="0"/>
@@ -549,7 +549,7 @@
     <mtx name="uniFB69" width="1450" lsb="169"/>
     <mtx name="uniFB6A" width="1604" lsb="156"/>
     <mtx name="uniFB6B" width="2389" lsb="34"/>
-    <mtx name="uniFB6C" width="3429" lsb="-248"/>
+    <mtx name="uniFB6C" width="3429" lsb="90"/>
     <mtx name="uniFB6D" width="2776" lsb="152"/>
     <mtx name="uniFB6E" width="3815" lsb="419"/>
     <mtx name="uniFB6F" width="2549" lsb="2"/>
@@ -1102,6 +1102,152 @@
       <map code="0xfeef" name="uniFEEF"/><!-- ARABIC LETTER ALEF MAKSURA ISOLATED FORM -->
       <map code="0xfef1" name="uniFEF1"/><!-- ARABIC LETTER YEH ISOLATED FORM -->
     </cmap_format_4>
+    <cmap_format_0 platformID="1" platEncID="0" language="0">
+      <map code="0x0" name="uniFC25"/>
+      <map code="0x8" name=".null"/>
+      <map code="0x9" name="uni000D"/>
+      <map code="0xd" name="uni000D"/>
+      <map code="0x1d" name=".null"/>
+      <map code="0x20" name="glyph4"/>
+      <map code="0x21" name="uniFB51"/>
+      <map code="0x22" name="uniFB52"/>
+      <map code="0x23" name="uniFB53"/>
+      <map code="0x24" name="uniFB54"/>
+      <map code="0x25" name="uniFB55"/>
+      <map code="0x26" name="uniFB56"/>
+      <map code="0x27" name="uniFB57"/>
+      <map code="0x28" name="uniFB58"/>
+      <map code="0x29" name="uniFB59"/>
+      <map code="0x2a" name="uniFB5A"/>
+      <map code="0x2b" name="uniFB5B"/>
+      <map code="0x2c" name="uniFB5C"/>
+      <map code="0x2d" name="hyphen"/>
+      <map code="0x2e" name="uniFB5E"/>
+      <map code="0x2f" name="uniFB5F"/>
+      <map code="0x30" name="uniFB60"/>
+      <map code="0x31" name="uniFB61"/>
+      <map code="0x32" name="uniFB62"/>
+      <map code="0x33" name="uniFB63"/>
+      <map code="0x34" name="uniFB64"/>
+      <map code="0x35" name="uniFB65"/>
+      <map code="0x36" name="uniFB66"/>
+      <map code="0x37" name="uniFB67"/>
+      <map code="0x38" name="uniFB68"/>
+      <map code="0x39" name="uniFB69"/>
+      <map code="0x3a" name="uniFB6A"/>
+      <map code="0x3b" name="uniFB6B"/>
+      <map code="0x3c" name="uniFB6C"/>
+      <map code="0x3d" name="uniFB6D"/>
+      <map code="0x3e" name="uniFB6E"/>
+      <map code="0x3f" name="uniFB6F"/>
+      <map code="0x40" name="uniFB70"/>
+      <map code="0x41" name="uniFB71"/>
+      <map code="0x42" name="uniFB72"/>
+      <map code="0x43" name="uniFB73"/>
+      <map code="0x44" name="uniFB74"/>
+      <map code="0x45" name="uniFB75"/>
+      <map code="0x46" name="uniFB76"/>
+      <map code="0x47" name="uniFB77"/>
+      <map code="0x48" name="uniFB78"/>
+      <map code="0x49" name="uniFB79"/>
+      <map code="0x4a" name="uniFB7A"/>
+      <map code="0x4b" name="uniFB7B"/>
+      <map code="0x4c" name="uniFB7C"/>
+      <map code="0x4d" name="uniFB7D"/>
+      <map code="0x4e" name="uniFB7E"/>
+      <map code="0x4f" name="uniFB7F"/>
+      <map code="0x50" name="uniFB80"/>
+      <map code="0x51" name="uniFB81"/>
+      <map code="0x52" name="uniFB82"/>
+      <map code="0x53" name="uniFB83"/>
+      <map code="0x54" name="uniFB84"/>
+      <map code="0x55" name="uniFB85"/>
+      <map code="0x56" name="uniFB86"/>
+      <map code="0x57" name="uniFB87"/>
+      <map code="0x58" name="uniFB88"/>
+      <map code="0x59" name="uniFB89"/>
+      <map code="0x5a" name="uniFB8A"/>
+      <map code="0x5b" name="uniFB8B"/>
+      <map code="0x5c" name="uniFB8C"/>
+      <map code="0x5d" name="uniFB8D"/>
+      <map code="0x5e" name="uniFB8E"/>
+      <map code="0x5f" name="uniFB8F"/>
+      <map code="0x60" name="uniFB90"/>
+      <map code="0x61" name="uniFB91"/>
+      <map code="0x62" name="uniFB92"/>
+      <map code="0x63" name="uniFB93"/>
+      <map code="0x64" name="uniFB94"/>
+      <map code="0x65" name="uniFB95"/>
+      <map code="0x66" name="uniFB96"/>
+      <map code="0x67" name="uniFB97"/>
+      <map code="0x68" name="uniFB98"/>
+      <map code="0x69" name="uniFB99"/>
+      <map code="0x6a" name="uniFB9A"/>
+      <map code="0x6b" name="uniFB9B"/>
+      <map code="0x6c" name="uniFB9C"/>
+      <map code="0x6d" name="uniFB9D"/>
+      <map code="0x6e" name="uniFB9E"/>
+      <map code="0x6f" name="uniFB9F"/>
+      <map code="0x70" name="uniFBA0"/>
+      <map code="0x71" name="uniFBA1"/>
+      <map code="0x72" name="uniFBA2"/>
+      <map code="0x73" name="uniFBA3"/>
+      <map code="0x74" name="uniFBA4"/>
+      <map code="0x75" name="uniFBA5"/>
+      <map code="0x76" name="uniFBA6"/>
+      <map code="0x77" name="uniFBA7"/>
+      <map code="0x78" name="uniFBA8"/>
+      <map code="0x79" name="uniFBA9"/>
+      <map code="0x7a" name="uniFBAA"/>
+      <map code="0x7b" name="uniFBAB"/>
+      <map code="0x7c" name="uniFBAC"/>
+      <map code="0x7d" name="uniFBAD"/>
+      <map code="0x7e" name="uniFBAE"/>
+      <map code="0x7f" name="uniFBAF"/>
+      <map code="0x80" name="uniFBF2"/>
+      <map code="0x81" name="uniFBF3"/>
+      <map code="0x82" name="uniFBF5"/>
+      <map code="0x83" name="uniFBF7"/>
+      <map code="0x84" name="uniFBFF"/>
+      <map code="0xa1" name="uniFBDF"/>
+      <map code="0xa2" name="uniFBB1"/>
+      <map code="0xa3" name="uniFBD3"/>
+      <map code="0xa4" name="uniFBD7"/>
+      <map code="0xa6" name="uniFBE5"/>
+      <map code="0xa8" name="uniFBDD"/>
+      <map code="0xa9" name="uniFBD9"/>
+      <map code="0xab" name="uniFBE3"/>
+      <map code="0xac" name="uniFBD8"/>
+      <map code="0xae" name="uniFBF4"/>
+      <map code="0xb1" name="uniFBE0"/>
+      <map code="0xb4" name="uniFBD5"/>
+      <map code="0xb5" name="uniFBE4"/>
+      <map code="0xbb" name="uniFBDA"/>
+      <map code="0xbc" name="uniFBE8"/>
+      <map code="0xc0" name="uniFBED"/>
+      <map code="0xc1" name="uniFBB0"/>
+      <map code="0xc2" name="uniFBDC"/>
+      <map code="0xc7" name="uniFBDB"/>
+      <map code="0xc8" name="uniFBE9"/>
+      <map code="0xca" name="uni00A0"/>
+      <map code="0xcb" name="uniFBEE"/>
+      <map code="0xcc" name="uniFBF1"/>
+      <map code="0xcd" name="uniFC03"/>
+      <map code="0xe5" name="uniFBF0"/>
+      <map code="0xe6" name="uniFBF8"/>
+      <map code="0xe7" name="uniFBEF"/>
+      <map code="0xe8" name="uniFBF9"/>
+      <map code="0xe9" name="uniFBF6"/>
+      <map code="0xea" name="uniFBFB"/>
+      <map code="0xeb" name="uniFBFC"/>
+      <map code="0xec" name="uniFBFD"/>
+      <map code="0xed" name="uniFBFA"/>
+      <map code="0xee" name="uniFC01"/>
+      <map code="0xef" name="uniFC02"/>
+      <map code="0xf1" name="uniFC00"/>
+      <map code="0xf8" name="uniFBDE"/>
+      <map code="0xfc" name="uniFBE6"/>
+    </cmap_format_0>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
       <map code="0x0" name="uniFC25"/><!-- ???? -->
       <map code="0xd" name="uni000D"/><!-- ???? -->
@@ -8371,7 +8517,7 @@
       <instructions/>
     </TTGlyph>
 
-    <TTGlyph name="uniFB6C" xMin="-248" yMin="-663" xMax="3417" yMax="1620">
+    <TTGlyph name="uniFB6C" xMin="90" yMin="-550" xMax="3417" yMax="1620">
       <contour>
         <pt x="3284" y="1366" on="1"/>
         <pt x="2980" y="1142" on="0"/>
@@ -8760,23 +8906,6 @@
         <pt x="1165" y="-307" on="0"/>
       </contour>
       <contour>
-        <pt x="325" y="-403" on="1"/>
-        <pt x="325" y="-416" on="0"/>
-        <pt x="294" y="-469" on="0"/>
-        <pt x="282" y="-475" on="1"/>
-        <pt x="177" y="-528" on="0"/>
-        <pt x="-1" y="-598" on="1"/>
-        <pt x="-171" y="-663" on="0"/>
-        <pt x="-193" y="-663" on="1"/>
-        <pt x="-225" y="-663" on="1"/>
-        <pt x="-248" y="-638" on="1"/>
-        <pt x="-227" y="-563" on="0"/>
-        <pt x="-183" y="-544" on="1"/>
-        <pt x="237" y="-366" on="0"/>
-        <pt x="280" y="-367" on="1"/>
-        <pt x="325" y="-367" on="1"/>
-      </contour>
-      <contour>
         <pt x="3211" y="392" on="1"/>
         <pt x="3211" y="428" on="1"/>
         <pt x="3176" y="463" on="1"/>
@@ -8805,6 +8934,23 @@
     </TTGlyph>
 
     <TTGlyph name="uniFB6D" xMin="152" yMin="-700" xMax="2772" yMax="1654">
+      <contour>
+        <pt x="2747" y="-193" on="1"/>
+        <pt x="2747" y="-206" on="0"/>
+        <pt x="2716" y="-259" on="0"/>
+        <pt x="2704" y="-265" on="1"/>
+        <pt x="2599" y="-318" on="0"/>
+        <pt x="2421" y="-388" on="1"/>
+        <pt x="2251" y="-453" on="0"/>
+        <pt x="2229" y="-453" on="1"/>
+        <pt x="2197" y="-453" on="1"/>
+        <pt x="2174" y="-428" on="1"/>
+        <pt x="2195" y="-353" on="0"/>
+        <pt x="2239" y="-334" on="1"/>
+        <pt x="2659" y="-156" on="0"/>
+        <pt x="2702" y="-157" on="1"/>
+        <pt x="2747" y="-157" on="1"/>
+      </contour>
       <contour>
         <pt x="2679" y="1542" on="1"/>
         <pt x="2679" y="1425" on="0"/>
@@ -44525,6 +44671,32 @@
       <psName name="uniFC01"/>
       <psName name="uniFC02"/>
       <psName name="uniFC03"/>
+      <psName name="uniFEA9"/>
+      <psName name="uniFEAB"/>
+      <psName name="uniFEAD"/>
+      <psName name="uniFEAF"/>
+      <psName name="uniFEB1"/>
+      <psName name="uniFEB5"/>
+      <psName name="uniFEB9"/>
+      <psName name="uniFEBD"/>
+      <psName name="uniFEC1"/>
+      <psName name="uniFEC5"/>
+      <psName name="uniFEC9"/>
+      <psName name="uniFECD"/>
+      <psName name="afii57440"/>
+      <psName name="uniFED1"/>
+      <psName name="uniFED5"/>
+      <psName name="uniFED9"/>
+      <psName name="uniFEDD"/>
+      <psName name="uniFEE1"/>
+      <psName name="uniFEE5"/>
+      <psName name="uniFEE9"/>
+      <psName name="uniFEED"/>
+      <psName name="uniFEEF"/>
+      <psName name="uniFEF1"/>
+      <psName name="uni06C2"/>
+      <psName name="afii57534"/>
+      <psName name="uniFB5D"/>
       <psName name="uniFC04"/>
       <psName name="uniFC05"/>
       <psName name="uniFC06"/>
@@ -44577,29 +44749,6 @@
       <psName name="uniFE9D"/>
       <psName name="uniFEA1"/>
       <psName name="uniFEA5"/>
-      <psName name="uniFEA9"/>
-      <psName name="uniFEAB"/>
-      <psName name="uniFEAD"/>
-      <psName name="uniFEAF"/>
-      <psName name="uniFEB1"/>
-      <psName name="uniFEB5"/>
-      <psName name="uniFEB9"/>
-      <psName name="uniFEBD"/>
-      <psName name="uniFEC1"/>
-      <psName name="uniFEC5"/>
-      <psName name="uniFEC9"/>
-      <psName name="uniFECD"/>
-      <psName name="afii57440"/>
-      <psName name="uniFED1"/>
-      <psName name="uniFED5"/>
-      <psName name="uniFED9"/>
-      <psName name="uniFEDD"/>
-      <psName name="uniFEE1"/>
-      <psName name="uniFEE5"/>
-      <psName name="uniFEE9"/>
-      <psName name="uniFEED"/>
-      <psName name="uniFEEF"/>
-      <psName name="uniFEF1"/>
       <psName name="afii57451"/>
       <psName name="afii57452"/>
       <psName name="afii57453"/>
@@ -44647,8 +44796,6 @@
       <psName name="afii57514"/>
       <psName name="uni06BC"/>
       <psName name="uni06BE"/>
-      <psName name="uni06C2"/>
-      <psName name="afii57534"/>
       <psName name="uni06C7"/>
       <psName name="uni06C9"/>
       <psName name="uni06CC"/>
@@ -44679,7 +44826,6 @@
       <psName name="uni205F"/>
       <psName name="uniE000"/>
       <psName name="uniFB50"/>
-      <psName name="uniFB5D"/>
     </extraNames>
   </post>
 
@@ -44687,197 +44833,204 @@
     <gaspRange rangeMaxPPEM="65535" rangeGaspBehavior="2"/>
   </gasp>
 
-  <GDEF>
-    <Version value="0x00010000"/>
-    <GlyphClassDef>
-      <ClassDef glyph=".null" class="1"/>
-      <ClassDef glyph="afii57440" class="1"/>
-      <ClassDef glyph="afii57534" class="1"/>
-      <ClassDef glyph="glyph4" class="1"/>
-      <ClassDef glyph="hyphen" class="1"/>
-      <ClassDef glyph="uni000D" class="1"/>
-      <ClassDef glyph="uni00A0" class="1"/>
-      <ClassDef glyph="uni00AD" class="1"/>
-      <ClassDef glyph="uni06C2" class="2"/>
-      <ClassDef glyph="uniFB51" class="1"/>
-      <ClassDef glyph="uniFB52" class="1"/>
-      <ClassDef glyph="uniFB53" class="1"/>
-      <ClassDef glyph="uniFB54" class="1"/>
-      <ClassDef glyph="uniFB55" class="1"/>
-      <ClassDef glyph="uniFB56" class="1"/>
-      <ClassDef glyph="uniFB57" class="1"/>
-      <ClassDef glyph="uniFB58" class="1"/>
-      <ClassDef glyph="uniFB59" class="1"/>
-      <ClassDef glyph="uniFB5A" class="1"/>
-      <ClassDef glyph="uniFB5B" class="1"/>
-      <ClassDef glyph="uniFB5C" class="1"/>
-      <ClassDef glyph="uniFB5D" class="1"/>
-      <ClassDef glyph="uniFB5E" class="1"/>
-      <ClassDef glyph="uniFB5F" class="1"/>
-      <ClassDef glyph="uniFB60" class="1"/>
-      <ClassDef glyph="uniFB61" class="1"/>
-      <ClassDef glyph="uniFB62" class="1"/>
-      <ClassDef glyph="uniFB63" class="1"/>
-      <ClassDef glyph="uniFB64" class="1"/>
-      <ClassDef glyph="uniFB65" class="1"/>
-      <ClassDef glyph="uniFB66" class="1"/>
-      <ClassDef glyph="uniFB67" class="1"/>
-      <ClassDef glyph="uniFB68" class="1"/>
-      <ClassDef glyph="uniFB69" class="1"/>
-      <ClassDef glyph="uniFB6A" class="1"/>
-      <ClassDef glyph="uniFB6B" class="1"/>
-      <ClassDef glyph="uniFB6C" class="1"/>
-      <ClassDef glyph="uniFB6D" class="1"/>
-      <ClassDef glyph="uniFB6E" class="1"/>
-      <ClassDef glyph="uniFB6F" class="1"/>
-      <ClassDef glyph="uniFB70" class="1"/>
-      <ClassDef glyph="uniFB71" class="1"/>
-      <ClassDef glyph="uniFB72" class="1"/>
-      <ClassDef glyph="uniFB73" class="1"/>
-      <ClassDef glyph="uniFB74" class="1"/>
-      <ClassDef glyph="uniFB75" class="1"/>
-      <ClassDef glyph="uniFB76" class="1"/>
-      <ClassDef glyph="uniFB77" class="1"/>
-      <ClassDef glyph="uniFB78" class="1"/>
-      <ClassDef glyph="uniFB79" class="1"/>
-      <ClassDef glyph="uniFB7A" class="1"/>
-      <ClassDef glyph="uniFB7B" class="1"/>
-      <ClassDef glyph="uniFB7C" class="1"/>
-      <ClassDef glyph="uniFB7D" class="1"/>
-      <ClassDef glyph="uniFB7E" class="1"/>
-      <ClassDef glyph="uniFB7F" class="1"/>
-      <ClassDef glyph="uniFB80" class="1"/>
-      <ClassDef glyph="uniFB81" class="1"/>
-      <ClassDef glyph="uniFB82" class="1"/>
-      <ClassDef glyph="uniFB83" class="1"/>
-      <ClassDef glyph="uniFB84" class="1"/>
-      <ClassDef glyph="uniFB85" class="1"/>
-      <ClassDef glyph="uniFB86" class="1"/>
-      <ClassDef glyph="uniFB87" class="1"/>
-      <ClassDef glyph="uniFB88" class="1"/>
-      <ClassDef glyph="uniFB89" class="1"/>
-      <ClassDef glyph="uniFB8A" class="1"/>
-      <ClassDef glyph="uniFB8B" class="1"/>
-      <ClassDef glyph="uniFB8C" class="1"/>
-      <ClassDef glyph="uniFB8D" class="1"/>
-      <ClassDef glyph="uniFB8E" class="1"/>
-      <ClassDef glyph="uniFB8F" class="1"/>
-      <ClassDef glyph="uniFB90" class="1"/>
-      <ClassDef glyph="uniFB91" class="1"/>
-      <ClassDef glyph="uniFB92" class="1"/>
-      <ClassDef glyph="uniFB93" class="1"/>
-      <ClassDef glyph="uniFB94" class="1"/>
-      <ClassDef glyph="uniFB95" class="1"/>
-      <ClassDef glyph="uniFB96" class="1"/>
-      <ClassDef glyph="uniFB97" class="1"/>
-      <ClassDef glyph="uniFB98" class="1"/>
-      <ClassDef glyph="uniFB99" class="1"/>
-      <ClassDef glyph="uniFB9A" class="1"/>
-      <ClassDef glyph="uniFB9B" class="1"/>
-      <ClassDef glyph="uniFB9C" class="1"/>
-      <ClassDef glyph="uniFB9D" class="1"/>
-      <ClassDef glyph="uniFB9E" class="1"/>
-      <ClassDef glyph="uniFB9F" class="1"/>
-      <ClassDef glyph="uniFBA0" class="1"/>
-      <ClassDef glyph="uniFBA1" class="1"/>
-      <ClassDef glyph="uniFBA2" class="1"/>
-      <ClassDef glyph="uniFBA3" class="1"/>
-      <ClassDef glyph="uniFBA4" class="1"/>
-      <ClassDef glyph="uniFBA5" class="1"/>
-      <ClassDef glyph="uniFBA6" class="1"/>
-      <ClassDef glyph="uniFBA7" class="1"/>
-      <ClassDef glyph="uniFBA8" class="1"/>
-      <ClassDef glyph="uniFBA9" class="1"/>
-      <ClassDef glyph="uniFBAA" class="1"/>
-      <ClassDef glyph="uniFBAB" class="1"/>
-      <ClassDef glyph="uniFBAC" class="1"/>
-      <ClassDef glyph="uniFBAD" class="1"/>
-      <ClassDef glyph="uniFBAE" class="1"/>
-      <ClassDef glyph="uniFBAF" class="1"/>
-      <ClassDef glyph="uniFBB0" class="1"/>
-      <ClassDef glyph="uniFBB1" class="1"/>
-      <ClassDef glyph="uniFBD3" class="1"/>
-      <ClassDef glyph="uniFBD4" class="1"/>
-      <ClassDef glyph="uniFBD5" class="1"/>
-      <ClassDef glyph="uniFBD6" class="1"/>
-      <ClassDef glyph="uniFBD7" class="1"/>
-      <ClassDef glyph="uniFBD8" class="1"/>
-      <ClassDef glyph="uniFBD9" class="1"/>
-      <ClassDef glyph="uniFBDA" class="1"/>
-      <ClassDef glyph="uniFBDB" class="1"/>
-      <ClassDef glyph="uniFBDC" class="1"/>
-      <ClassDef glyph="uniFBDD" class="1"/>
-      <ClassDef glyph="uniFBDE" class="1"/>
-      <ClassDef glyph="uniFBDF" class="1"/>
-      <ClassDef glyph="uniFBE0" class="1"/>
-      <ClassDef glyph="uniFBE1" class="1"/>
-      <ClassDef glyph="uniFBE2" class="1"/>
-      <ClassDef glyph="uniFBE3" class="1"/>
-      <ClassDef glyph="uniFBE4" class="1"/>
-      <ClassDef glyph="uniFBE5" class="1"/>
-      <ClassDef glyph="uniFBE6" class="1"/>
-      <ClassDef glyph="uniFBE7" class="1"/>
-      <ClassDef glyph="uniFBE8" class="1"/>
-      <ClassDef glyph="uniFBE9" class="1"/>
-      <ClassDef glyph="uniFBEA" class="1"/>
-      <ClassDef glyph="uniFBEB" class="1"/>
-      <ClassDef glyph="uniFBEC" class="1"/>
-      <ClassDef glyph="uniFBED" class="1"/>
-      <ClassDef glyph="uniFBEE" class="1"/>
-      <ClassDef glyph="uniFBEF" class="1"/>
-      <ClassDef glyph="uniFBF0" class="1"/>
-      <ClassDef glyph="uniFBF1" class="1"/>
-      <ClassDef glyph="uniFBF2" class="1"/>
-      <ClassDef glyph="uniFBF3" class="1"/>
-      <ClassDef glyph="uniFBF4" class="1"/>
-      <ClassDef glyph="uniFBF5" class="1"/>
-      <ClassDef glyph="uniFBF6" class="1"/>
-      <ClassDef glyph="uniFBF7" class="1"/>
-      <ClassDef glyph="uniFBF8" class="1"/>
-      <ClassDef glyph="uniFBF9" class="1"/>
-      <ClassDef glyph="uniFBFA" class="1"/>
-      <ClassDef glyph="uniFBFB" class="1"/>
-      <ClassDef glyph="uniFBFC" class="1"/>
-      <ClassDef glyph="uniFBFD" class="1"/>
-      <ClassDef glyph="uniFBFE" class="1"/>
-      <ClassDef glyph="uniFBFF" class="1"/>
-      <ClassDef glyph="uniFC00" class="1"/>
-      <ClassDef glyph="uniFC01" class="1"/>
-      <ClassDef glyph="uniFC02" class="1"/>
-      <ClassDef glyph="uniFC03" class="1"/>
-      <ClassDef glyph="uniFC04" class="1"/>
-      <ClassDef glyph="uniFC05" class="1"/>
-      <ClassDef glyph="uniFC06" class="1"/>
-      <ClassDef glyph="uniFC07" class="1"/>
-      <ClassDef glyph="uniFC08" class="1"/>
-      <ClassDef glyph="uniFC09" class="1"/>
-      <ClassDef glyph="uniFC0A" class="1"/>
-      <ClassDef glyph="uniFC0B" class="1"/>
-      <ClassDef glyph="uniFC0C" class="1"/>
-      <ClassDef glyph="uniFC25" class="1"/>
-      <ClassDef glyph="uniFEA9" class="1"/>
-      <ClassDef glyph="uniFEAB" class="1"/>
-      <ClassDef glyph="uniFEAD" class="1"/>
-      <ClassDef glyph="uniFEAF" class="1"/>
-      <ClassDef glyph="uniFEB1" class="1"/>
-      <ClassDef glyph="uniFEB5" class="1"/>
-      <ClassDef glyph="uniFEB9" class="1"/>
-      <ClassDef glyph="uniFEBD" class="1"/>
-      <ClassDef glyph="uniFEC1" class="1"/>
-      <ClassDef glyph="uniFEC5" class="1"/>
-      <ClassDef glyph="uniFEC9" class="1"/>
-      <ClassDef glyph="uniFECD" class="1"/>
-      <ClassDef glyph="uniFED1" class="1"/>
-      <ClassDef glyph="uniFED5" class="1"/>
-      <ClassDef glyph="uniFED9" class="1"/>
-      <ClassDef glyph="uniFEDD" class="1"/>
-      <ClassDef glyph="uniFEE1" class="1"/>
-      <ClassDef glyph="uniFEE5" class="1"/>
-      <ClassDef glyph="uniFEE9" class="1"/>
-      <ClassDef glyph="uniFEED" class="1"/>
-      <ClassDef glyph="uniFEEF" class="1"/>
-      <ClassDef glyph="uniFEF1" class="1"/>
-    </GlyphClassDef>
-  </GDEF>
+  <FFTM>
+    <!-- FontForge's timestamp, font source creation and modification dates -->
+    <version value="1"/>
+    <FFTimeStamp value="Sun Jan  1 05:27:58 2023"/>
+    <sourceCreated value="Sun May 15 08:57:39 2005"/>
+    <sourceModified value="Wed Jul  2 10:04:12 2025"/>
+  </FFTM>
+
+  <prop>
+    <Version value="2.0"/>
+    <GlyphProperties Format="1">
+      <DefaultProperties value="0"/>
+      <Properties>
+        <Lookup glyph="afii57440" value="1"/>
+        <Lookup glyph="afii57534" value="1"/>
+        <Lookup glyph="glyph4" value="10"/>
+        <Lookup glyph="hyphen" value="4"/>
+        <Lookup glyph="uni000D" value="10"/>
+        <Lookup glyph="uni00A0" value="7"/>
+        <Lookup glyph="uni00AD" value="11"/>
+        <Lookup glyph="uni066B" value="2"/>
+        <Lookup glyph="uni066C" value="2"/>
+        <Lookup glyph="uni0671" value="2"/>
+        <Lookup glyph="uni067C" value="2"/>
+        <Lookup glyph="uni0681" value="2"/>
+        <Lookup glyph="uni0685" value="2"/>
+        <Lookup glyph="uni0689" value="2"/>
+        <Lookup glyph="uni0693" value="2"/>
+        <Lookup glyph="uni0696" value="2"/>
+        <Lookup glyph="uni069A" value="2"/>
+        <Lookup glyph="uni06A9" value="2"/>
+        <Lookup glyph="uni06AB" value="2"/>
+        <Lookup glyph="uni06B7" value="2"/>
+        <Lookup glyph="uni06BC" value="2"/>
+        <Lookup glyph="uni06BE" value="2"/>
+        <Lookup glyph="uni06C2" value="1"/>
+        <Lookup glyph="uni06C7" value="2"/>
+        <Lookup glyph="uni06C9" value="2"/>
+        <Lookup glyph="uni06CC" value="2"/>
+        <Lookup glyph="uni06CD" value="2"/>
+        <Lookup glyph="uni06D0" value="2"/>
+        <Lookup glyph="uni06D1" value="2"/>
+        <Lookup glyph="uni06D3" value="2"/>
+        <Lookup glyph="uni06D4" value="2"/>
+        <Lookup glyph="uni06F0" value="2"/>
+        <Lookup glyph="uni06F1" value="2"/>
+        <Lookup glyph="uni06F2" value="2"/>
+        <Lookup glyph="uni06F3" value="2"/>
+        <Lookup glyph="uni06F4" value="2"/>
+        <Lookup glyph="uni06F5" value="2"/>
+        <Lookup glyph="uni06F6" value="2"/>
+        <Lookup glyph="uni06F7" value="2"/>
+        <Lookup glyph="uni06F8" value="2"/>
+        <Lookup glyph="uni06F9" value="2"/>
+        <Lookup glyph="uniFB50" value="2"/>
+        <Lookup glyph="uniFB51" value="11"/>
+        <Lookup glyph="uniFB52" value="11"/>
+        <Lookup glyph="uniFB53" value="5"/>
+        <Lookup glyph="uniFB54" value="5"/>
+        <Lookup glyph="uniFB55" value="5"/>
+        <Lookup glyph="uniFB56" value="11"/>
+        <Lookup glyph="uniFB57" value="11"/>
+        <Lookup glyph="uniFB58" value="4363"/>
+        <Lookup glyph="uniFB59" value="7947"/>
+        <Lookup glyph="uniFB5A" value="11"/>
+        <Lookup glyph="uniFB5B" value="4"/>
+        <Lookup glyph="uniFB5C" value="7"/>
+        <Lookup glyph="uniFB5D" value="1"/>
+        <Lookup glyph="uniFB5E" value="7"/>
+        <Lookup glyph="uniFB5F" value="7"/>
+        <Lookup glyph="uniFB60" value="3"/>
+        <Lookup glyph="uniFB61" value="3"/>
+        <Lookup glyph="uniFB62" value="3"/>
+        <Lookup glyph="uniFB63" value="3"/>
+        <Lookup glyph="uniFB64" value="3"/>
+        <Lookup glyph="uniFB65" value="3"/>
+        <Lookup glyph="uniFB66" value="3"/>
+        <Lookup glyph="uniFB67" value="3"/>
+        <Lookup glyph="uniFB68" value="3"/>
+        <Lookup glyph="uniFB69" value="3"/>
+        <Lookup glyph="uniFB6A" value="7"/>
+        <Lookup glyph="uniFB6B" value="11"/>
+        <Lookup glyph="uniFB6C" value="4619"/>
+        <Lookup glyph="uniFB6D" value="11"/>
+        <Lookup glyph="uniFB6E" value="7691"/>
+        <Lookup glyph="uniFB6F" value="11"/>
+        <Lookup glyph="uniFB70" value="11"/>
+        <Lookup glyph="uniFB8B" value="4619"/>
+        <Lookup glyph="uniFB8C" value="11"/>
+        <Lookup glyph="uniFB8D" value="7691"/>
+        <Lookup glyph="uniFB8E" value="11"/>
+        <Lookup glyph="uniFB8F" value="11"/>
+        <Lookup glyph="uniFB90" value="11"/>
+        <Lookup glyph="uniFBAB" value="4619"/>
+        <Lookup glyph="uniFBAC" value="11"/>
+        <Lookup glyph="uniFBAD" value="7691"/>
+        <Lookup glyph="uniFBAE" value="11"/>
+        <Lookup glyph="uniFBAF" value="11"/>
+        <Lookup glyph="uniFBB0" value="11"/>
+        <Lookup glyph="uniFBB1" value="5"/>
+        <Lookup glyph="uniFBD3" value="5"/>
+        <Lookup glyph="uniFBD4" value="5"/>
+        <Lookup glyph="uniFBD5" value="5"/>
+        <Lookup glyph="uniFBD6" value="11"/>
+        <Lookup glyph="uniFBD7" value="11"/>
+        <Lookup glyph="uniFBD8" value="11"/>
+        <Lookup glyph="uniFBD9" value="11"/>
+        <Lookup glyph="uniFBDB" value="11"/>
+        <Lookup glyph="uniFBDC" value="11"/>
+        <Lookup glyph="uniFBDD" value="11"/>
+        <Lookup glyph="uniFBDE" value="11"/>
+        <Lookup glyph="uniFBDF" value="5"/>
+        <Lookup glyph="uniFBE0" value="5"/>
+        <Lookup glyph="uniFBE1" value="3"/>
+        <Lookup glyph="uniFBE2" value="3"/>
+        <Lookup glyph="uniFBE3" value="11"/>
+        <Lookup glyph="uniFBE5" value="11"/>
+        <Lookup glyph="uniFBE6" value="11"/>
+        <Lookup glyph="uniFBE7" value="3"/>
+        <Lookup glyph="uniFBE9" value="11"/>
+        <Lookup glyph="uniFBEA" value="11"/>
+        <Lookup glyph="uniFBEB" value="11"/>
+        <Lookup glyph="uniFBEC" value="11"/>
+        <Lookup glyph="uniFBED" value="11"/>
+        <Lookup glyph="uniFC04" value="1"/>
+        <Lookup glyph="uniFC05" value="1"/>
+        <Lookup glyph="uniFC06" value="1"/>
+        <Lookup glyph="uniFC07" value="1"/>
+        <Lookup glyph="uniFC08" value="1"/>
+        <Lookup glyph="uniFC09" value="1"/>
+        <Lookup glyph="uniFC0A" value="1"/>
+        <Lookup glyph="uniFC0B" value="1"/>
+        <Lookup glyph="uniFC0C" value="1"/>
+        <Lookup glyph="uniFC0D" value="2"/>
+        <Lookup glyph="uniFC0E" value="2"/>
+        <Lookup glyph="uniFC0F" value="2"/>
+        <Lookup glyph="uniFC10" value="2"/>
+        <Lookup glyph="uniFC11" value="2"/>
+        <Lookup glyph="uniFC12" value="2"/>
+        <Lookup glyph="uniFC13" value="2"/>
+        <Lookup glyph="uniFC14" value="2"/>
+        <Lookup glyph="uniFC15" value="2"/>
+        <Lookup glyph="uniFC16" value="2"/>
+        <Lookup glyph="uniFC17" value="2"/>
+        <Lookup glyph="uniFC18" value="2"/>
+        <Lookup glyph="uniFC19" value="2"/>
+        <Lookup glyph="uniFC1A" value="2"/>
+        <Lookup glyph="uniFC1B" value="2"/>
+        <Lookup glyph="uniFC1C" value="2"/>
+        <Lookup glyph="uniFC1D" value="2"/>
+        <Lookup glyph="uniFC1E" value="2"/>
+        <Lookup glyph="uniFC1F" value="2"/>
+        <Lookup glyph="uniFC20" value="2"/>
+        <Lookup glyph="uniFC21" value="2"/>
+        <Lookup glyph="uniFC22" value="2"/>
+        <Lookup glyph="uniFC23" value="2"/>
+        <Lookup glyph="uniFC24" value="2"/>
+        <Lookup glyph="uniFC25" value="11"/>
+        <Lookup glyph="uniFC26" value="2"/>
+        <Lookup glyph="uniFC27" value="2"/>
+        <Lookup glyph="uniFE80" value="2"/>
+        <Lookup glyph="uniFE81" value="2"/>
+        <Lookup glyph="uniFE83" value="2"/>
+        <Lookup glyph="uniFE85" value="2"/>
+        <Lookup glyph="uniFE87" value="2"/>
+        <Lookup glyph="uniFE89" value="2"/>
+        <Lookup glyph="uniFE8D" value="2"/>
+        <Lookup glyph="uniFE8F" value="2"/>
+        <Lookup glyph="uniFE93" value="2"/>
+        <Lookup glyph="uniFE95" value="2"/>
+        <Lookup glyph="uniFE99" value="2"/>
+        <Lookup glyph="uniFE9D" value="2"/>
+        <Lookup glyph="uniFEA1" value="2"/>
+        <Lookup glyph="uniFEA5" value="2"/>
+        <Lookup glyph="uniFEA9" value="1"/>
+        <Lookup glyph="uniFEAB" value="1"/>
+        <Lookup glyph="uniFEAD" value="1"/>
+        <Lookup glyph="uniFEAF" value="1"/>
+        <Lookup glyph="uniFEB1" value="1"/>
+        <Lookup glyph="uniFEB5" value="1"/>
+        <Lookup glyph="uniFEB9" value="1"/>
+        <Lookup glyph="uniFEBD" value="1"/>
+        <Lookup glyph="uniFEC1" value="1"/>
+        <Lookup glyph="uniFEC5" value="1"/>
+        <Lookup glyph="uniFEC9" value="1"/>
+        <Lookup glyph="uniFECD" value="1"/>
+        <Lookup glyph="uniFED1" value="1"/>
+        <Lookup glyph="uniFED5" value="1"/>
+        <Lookup glyph="uniFED9" value="1"/>
+        <Lookup glyph="uniFEDD" value="1"/>
+        <Lookup glyph="uniFEE1" value="1"/>
+        <Lookup glyph="uniFEE5" value="1"/>
+        <Lookup glyph="uniFEE9" value="1"/>
+        <Lookup glyph="uniFEED" value="1"/>
+        <Lookup glyph="uniFEEF" value="1"/>
+        <Lookup glyph="uniFEF1" value="1"/>
+      </Properties>
+    </GlyphProperties>
+  </prop>
 
 </ttFont>
